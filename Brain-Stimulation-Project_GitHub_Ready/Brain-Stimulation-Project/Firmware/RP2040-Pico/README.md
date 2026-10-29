@@ -1,0 +1,2 @@
+# RP2040 / Raspberry Pi Pico firmware — source pending
+Current discussed bring-up goals: isolated I2C communication, AD5662 SPI wiring verification, a debug waveform pin, watchdog and communications timeout. Previous draft intentionally kept DAC output powered down for safe debug-only tests. Add authentic `.c`, headers, `CMakeLists.txt`, SDK dependencies, and build instructions here once collected.

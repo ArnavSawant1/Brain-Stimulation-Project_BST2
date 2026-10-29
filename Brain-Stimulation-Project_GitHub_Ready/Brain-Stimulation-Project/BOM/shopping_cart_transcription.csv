@@ -1,0 +1,17 @@
+Cart index,Quantity shown,DigiKey part number (transcribed),Manufacturer part number (transcribed),Description (abbreviated),Purchase status
+1,1,296-ISO1642DWRCT-ND,ISO1642DWR,Digital isolator,Unverified - cart screenshot only
+2,1,505-AD5662ARMZ-1-ND,AD5662ARMZ-1,16-bit DAC,Unverified - cart screenshot only
+3,1,311-3.30KCRCT-ND,RC0805FR-073K3L,3.3k resistor 0805,Unverified - cart screenshot only
+4,1,2648-SC0915CT-ND,SC0915,Raspberry Pi Pico RP2040,Unverified - cart screenshot only
+5,2,296-43866-1-ND,OPA197IDR,Op amp,Unverified - cart screenshot only
+6,5,311-3.30KCRCT-ND,RC0805FR-073K3L,3.3k resistor 0805,Unverified - cart screenshot only
+7,2,311-10.0KCRCT-ND,RC0805FR-0710KL,10k resistor 0805,Unverified - cart screenshot only
+8,2,311-10.0KCRCT-ND,RC0805FR-0710KL,10k resistor 0805,Unverified - cart screenshot only
+9,2,P15.8KCCT-ND,ERJ-6ENF1582V,15.8k resistor 0805,Unverified - cart screenshot only
+10,2,P2.32KCCT-ND,ERJ-6ENF2321V,2.32k resistor 0805,Unverified - cart screenshot only
+11,12,1276-1003-1-ND,CL21B104KBCNNNC,0.1uF 0805 capacitor,Unverified - cart screenshot only
+12,2,13-CC0805KPX5R6BB106CT-ND,CC0805KPX5R6BB106,10uF 0805 capacitor,Unverified - cart screenshot only
+13,2,478-KGM21AR71H105KUCT-ND,08055C105KAT2A,1uF 0805 capacitor,Unverified - cart screenshot only
+14,4,732-5315-ND,61300211121,2pos vertical header,Unverified - cart screenshot only
+15,1,732-5337-ND,61300411021,4pos right-angle header,Unverified - cart screenshot only
+16,1,732-5316-ND,61300311121,3pos vertical header,Unverified - cart screenshot only
